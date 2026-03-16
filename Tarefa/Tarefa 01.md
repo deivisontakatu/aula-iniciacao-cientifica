@@ -249,7 +249,7 @@ OBSERVAÇÕES DO LEITOR:
 
 Realize um **fichamento textual** do artigo:
 
-**ESTUDOS SOBRE INICIAÇÃO CIENTÍFICA NO BRASIL: UMA REVISÃO**
+**[ESTUDOS SOBRE INICIAÇÃO CIENTÍFICA NO BRASIL: UMA REVISÃO](https://github.com/deivisontakatu/aula-iniciacao-cientifica/blob/main/Tarefa/Estudos%20sobre%20inicia%C3%A7%C3%A3o%20cient%C3%ADfica%20no%20Brasil%20-%20uma%20revis%C3%A3o.pdf)**
 
 O fichamento deve conter:
 
