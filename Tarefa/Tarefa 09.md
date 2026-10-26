@@ -1,4 +1,4 @@
-# 🧪 Atividade 09 — Preparação e Submissão de Trabalho ao CONTECSI
+# 🧪 Atividade 09 — Trabalho CONTECSI
 
 Nas atividades anteriores, você desenvolveu sua pesquisa de Iniciação Científica, estudou formas de publicação e conheceu eventos científicos. Agora, o objetivo é preparar um trabalho acadêmico para submissão ao **CONTECSI — Congresso Internacional de Gestão da Tecnologia e Sistemas de Informação**.
 
@@ -196,9 +196,3 @@ Se a submissão estiver aberta e o trabalho estiver pronto, inclua também o reg
 - **Sistema de submissão:** https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/author/submit
 
 ---
-
-## 💡 Recomendação final
-
-A recomendação é desenvolver um **artigo completo (PSE)**, pois permite aprofundar o problema, o referencial teórico, a metodologia e os resultados. O resumo expandido (REX) deve ser uma alternativa excepcional, quando houver justificativa para isso e a modalidade for elegível para o estudante.
-
-A meta não é apenas preencher um template: é construir um trabalho consistente, revisar a qualidade científica e aprender a realizar uma submissão acadêmica seguindo as regras reais de um congresso.
